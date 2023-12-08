@@ -1,2 +1,2 @@
-# portal.com
-a github pages site for portal the flash version
+# flash.com
+a github pages site for flash games
